@@ -1,0 +1,102 @@
+[
+    {
+        "nombre": "Lucía",
+        "promedio": 7.5,
+        "aprobado": true
+    },
+    {
+        "nombre": "Martín",
+        "promedio": 4.2,
+        "aprobado": false
+    },
+    {
+        "nombre": "Sofía",
+        "promedio": 9.1,
+        "aprobado": true
+    },
+    {
+        "nombre": "Diego",
+        "promedio": 5.6,
+        "aprobado": false
+    },
+    {
+        "nombre": "Carla",
+        "promedio": 8.3,
+        "aprobado": true
+    },
+    {
+        "nombre": "Tomás",
+        "promedio": 6.7,
+        "aprobado": true
+    },
+    {
+        "nombre": "Valentina",
+        "promedio": 8.9,
+        "aprobado": true
+    },
+    {
+        "nombre": "Nicolás",
+        "promedio": 2.8,
+        "aprobado": false
+    },
+    {
+        "nombre": "Agustina",
+        "promedio": 6.4,
+        "aprobado": true
+    },
+    {
+        "nombre": "Joaquín",
+        "promedio": 5.1,
+        "aprobado": false
+    },
+    {
+        "nombre": "Lucas",
+        "promedio": 7.8,
+        "aprobado": true
+    },
+    {
+        "nombre": "Micaela",
+        "promedio": 6.2,
+        "aprobado": true
+    },
+    {
+        "nombre": "Juan",
+        "promedio": 3.9,
+        "aprobado": false
+    },
+    {
+        "nombre": "María",
+        "promedio": 8.1,
+        "aprobado": true
+    },
+    {
+        "nombre": "Gonzalo",
+        "promedio": 6.9,
+        "aprobado": true
+    },
+    {
+        "nombre": "Ana",
+        "promedio": 9.4,
+        "aprobado": true
+    },
+    {
+        "nombre": "Ignacio",
+        "promedio": 9.4,
+        "aprobado": true
+    },
+    {
+        "nombre": "Joaquin",
+        "promedio": 8.5,
+        "aprobado": true
+    },
+    {
+        "nombre": "Marta",
+        "promedio": 6.7,
+        "aprobado": false
+    },
+    {
+        "nombre": "Pedro",
+        "promedio": 9.2,
+        "aprobado": true
+    }
+]
