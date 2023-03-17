@@ -78,10 +78,9 @@ button[type="submit"] {
 }
 
 /* Estilo para las filas de la tabla de calificaciones */
-#tabla-notas tr:nth-child(even) {
+#tabla-notas tr:hover {
     background-color: #4caf50;
 }
-
 /* Estilo para las celdas de la tabla de calificaciones */
 #tabla-notas td {
     border: 2px solid transparent;
@@ -115,7 +114,7 @@ button[type="submit"] {
 }
 
 /* Estilo para las filas de la tabla de calificaciones */
-#tabla-notas1 tr:nth-child(even) {
+#tabla-notas1 tr:hover {
     background-color: #4caf50;
 }
 
