@@ -15,9 +15,28 @@
                 <a href="estudiantes.html">Estudiantes</a>
             </nav>
         </header>
-        <h1>Estudiantes</h1>
+
         <section>
+            <h1>Estudiantes</h1>
+            <label for="select-estado">Filtrar por estado:</label>
+            <select id="select-estado">
+                <option value="todos">Todos</option>
+                <option value="aprobado">Aprobado</option>
+                <option value="reprobado">Reprobado</option>
+            </select>
+            <button id="boton-buscar">Buscar</button>
             <table id="tabla-notas">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Promedio</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            <h2>Estudiantes agregados recientemente</h2>
+            <table id="tabla-notas1">
                 <thead>
                     <tr>
                         <th>Nombre</th>
